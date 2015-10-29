@@ -1,0 +1,11 @@
+d:\onedrive\documents\visual studio 2012\Projects\CSVtoXLSX\CSVtoXLSX\bin\Debug\CSVtoXLSX.exe.config
+d:\onedrive\documents\visual studio 2012\Projects\CSVtoXLSX\CSVtoXLSX\bin\Debug\CSVtoXLSX.exe
+d:\onedrive\documents\visual studio 2012\Projects\CSVtoXLSX\CSVtoXLSX\bin\Debug\CSVtoXLSX.pdb
+d:\onedrive\documents\visual studio 2012\Projects\CSVtoXLSX\CSVtoXLSX\obj\Debug\CSVtoXLSX.csprojResolveAssemblyReference.cache
+d:\onedrive\documents\visual studio 2012\Projects\CSVtoXLSX\CSVtoXLSX\obj\Debug\CSVtoXLSX.csproj.ResolveComReference.cache
+d:\onedrive\documents\visual studio 2012\Projects\CSVtoXLSX\CSVtoXLSX\obj\Debug\CSVtoXLSX.exe
+d:\onedrive\documents\visual studio 2012\Projects\CSVtoXLSX\CSVtoXLSX\obj\Debug\CSVtoXLSX.pdb
+D:\OneDrive\Documents\GitHubVisualStudio\CSVtoXLSX\CSVtoXLSX\bin\Debug\CSVtoXLSX.exe.config
+D:\OneDrive\Documents\GitHubVisualStudio\CSVtoXLSX\CSVtoXLSX\obj\Debug\CSVtoXLSX.csproj.ResolveComReference.cache
+D:\OneDrive\Documents\GitHubVisualStudio\CSVtoXLSX\CSVtoXLSX\obj\Debug\CSVtoXLSX.exe
+D:\OneDrive\Documents\GitHubVisualStudio\CSVtoXLSX\CSVtoXLSX\obj\Debug\CSVtoXLSX.pdb
